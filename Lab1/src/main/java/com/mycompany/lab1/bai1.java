@@ -11,6 +11,10 @@ package com.mycompany.lab1;
 public class bai1 {
 
     public static void main(String[] args) {
-        // sinh viên code ở đây
+        int x = 5;
+        int y = 6;
+        int z = x + y;
+        System.out.println(z);
+                
     }
 }
